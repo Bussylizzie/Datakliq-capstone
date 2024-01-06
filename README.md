@@ -11,11 +11,11 @@ This accessibility and ease of use not only satisfy customers’ demands for con
 Recognizing the significance of retaining customers, this project aims to explore data-centric approaches to optimize ATM performance, ultimately bolstering our strategies for enhancing customer retention.
 
 ## Objective
-This project aims to:
-- Uncover valuable insights to enhance understanding of customer behavior.
-- Enhance operational efficiency.
-- Foster enduring customer relationships as the ultimate goal.
-
+The project objectives are as follows:
+- Uncover insights for a deeper understanding of customer behavior.
+- Analyze ATM operational efficiency metrics, including ATM utilization, success rate, error rate, wait time, and service response time.
+- Investigate transaction records to comprehend customer transaction behaviors.
+- Examine ATM location transaction data to inform strategies for cultivating enduring customer relationships.
 ---
 
 ## Tools used
