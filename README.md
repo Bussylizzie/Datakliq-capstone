@@ -56,3 +56,9 @@ The analysis of ATM machine maintenance indicates that the main determinant of a
 The scrutiny of ATM Transaction Records spanning from January 2019 to December 2022 unveils significant insights. During this period, this study identified an extensive volume of transactions totaling over 6.52 million occurrences, representing a substantial engagement with the ATM network. Furthermore, the cumulative transactional value amassed over the four-year span amounted to an impressive 111.07 billion Naira.
 
 ![](transaction_record2.PNG)
+
+In terms of geographical distribution, the analysis highlights Lagos as the leading region, accounting for a substantial portion of ATM transactions at 39.64%. Following Lagos, Rivers emerged as the next significant contributor, representing 19.16% of the total transactions. Kano and Enugu closely followed, accounting for 16.57% and 16.39% of transactions, respectively. Abuja, while comparatively lower, still contributed notably with 8.25% of the total transactions.
+
+Among the various transaction types, withdrawals emerged as the predominant transaction, constituting 34.99% of the total transactions within the dataset. Following withdrawals, transfers accounted for 24.1% of the transactions, while balance inquiries and deposits stood closely at 20.46% and 20.45%, respectively.
+
+Within the customer dataset, a notable trend surfaced where the skilled population emerged as the predominant leaders in transactional activity. This demographic exhibited the highest volume of transaction records, holding a prominent position among both Datakliq bank customers and non-Datakliq bank customers alike.
