@@ -1,5 +1,6 @@
 # Datakliq-capstone
 Datakliq Cohort 3 project 
+
 ![](65e221d80e47f1b6a163bb9aba3ac62c.jpg)
 
 ---
@@ -33,6 +34,7 @@ During the analysis phase, SQL (PostgreSQL) was employed for the process phase. 
 
 For the process phase, the initial step involved importing the CSV file into PostgreSQL. Subsequently, columns were modified to fit appropriate data types. Null values within columns of Numeric data types were replaced with "0". Additionally, a Calendar dimension table was created, and the transaction records from the five states were merged to form a unified Transaction table.
 The removal of duplicates was executed using the "Select Duplicates" functionality.
+
 ![](sqlATMsnapshot.PNG)
 
 ---
@@ -47,4 +49,10 @@ The clean tables from the postgresql were uploaded to Microsoft Power Bi through
 ## Analysis and Visualization
 
 The analysis of ATM machine maintenance indicates that the main determinant of average user per ATM is the success rate. The higher the success rate of the machine the higher the number of Cardholders that use the ATM. 
+
 ![](ATM_machineAnalysis2.PNG)
+
+
+The scrutiny of ATM Transaction Records spanning from January 2019 to December 2022 unveils significant insights. During this period, this study identified an extensive volume of transactions totaling over 6.52 million occurrences, representing a substantial engagement with the ATM network. Furthermore, the cumulative transactional value amassed over the four-year span amounted to an impressive 111.07 billion Naira.
+
+![](transaction_record2.PNG)
