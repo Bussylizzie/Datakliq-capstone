@@ -33,6 +33,7 @@ During the analysis phase, SQL (PostgreSQL) was employed for the process phase. 
 
 For the process phase, the initial step involved importing the CSV file into PostgreSQL. Subsequently, columns were modified to fit appropriate data types. Null values within columns of Numeric data types were replaced with "0". Additionally, a Calendar dimension table was created, and the transaction records from the five states were merged to form a unified Transaction table.
 The removal of duplicates was executed using the "Select Duplicates" functionality.
+![](sqlATMsnapshot.PNG)
 
 ---
 
@@ -44,3 +45,6 @@ The clean tables from the postgresql were uploaded to Microsoft Power Bi through
 ---
 
 ## Analysis and Visualization
+
+The analysis of ATM machine maintenance indicates that the main determinant of average user per ATM is the success rate. The higher the success rate of the machine the higher the number of Cardholders that use the ATM. 
+![](ATM_machineAnalysis2.PNG)
