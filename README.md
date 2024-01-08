@@ -48,10 +48,9 @@ The clean tables from the postgresql were uploaded to Microsoft Power Bi through
 
 ## Analysis and Visualization
 
-The analysis of ATM machine maintenance indicates that the main determinant of average user per ATM is the success rate. The higher the success rate of the machine the higher the number of Cardholders that use the ATM. 
+The analysis of ATM machine maintenance indicates that out of determinants factors such as Error rate, service response rate, average waiting time, the main determinant of average user per ATM is the success rate. The higher the success rate of the machine the higher the number of Cardholders that use the ATM. However, this does not seem to have effect on Transaction Records of the ATMs
 
 ![](ATM_machineAnalysis2.PNG)
-
 
 The scrutiny of ATM Transaction Records spanning from January 2019 to December 2022 unveils significant insights. During this period, this study identified an extensive volume of transactions totaling over 6.52 million occurrences, representing a substantial engagement with the ATM network. Furthermore, the cumulative transactional value amassed over the four-year span amounted to an impressive 111.07 billion Naira.
 
@@ -69,3 +68,6 @@ Within the customer dataset, a notable trend surfaced where the skilled populati
 The analysis of Location name records reveals that the city with the highest records is Lagos, the Location with the highest records is Lekki ATM, followed by Ikorodu Atm, while the location with. the least record is wuse atm.
 
 ![](ATM_locationAnalysis.PNG)
+
+
+## Recommendations
