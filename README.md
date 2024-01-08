@@ -48,7 +48,7 @@ The clean tables from the postgresql were uploaded to Microsoft Power Bi through
 
 ## Analysis and Visualization
 
-The analysis of ATM machine maintenance indicates that out of determinants factors such as Error rate, service response rate, average waiting time, the main determinant of average user per ATM is the success rate. The higher the success rate of the machine the higher the number of Cardholders that use the ATM. However, this does not seem to have effect on Transaction Records of the ATMs
+The analysis of ATM machine maintenance indicates that out of determinants factors such as Error rate, service response rate, average waiting time, success rate has significant effect on average user per ATM. The higher the success rate of the machine the higher the number of Cardholders that use the ATM. However, this does not seem to have effect on Transaction Records of the ATMs
 
 ![](ATM_machineAnalysis2.PNG)
 
@@ -71,3 +71,16 @@ The analysis of Location name records reveals that the city with the highest rec
 
 
 ## Recommendations
+Prioritize regular maintenance and timely repairs to sustain and improve ATM success rates.
+
+Invest in technological advancements or upgrades to enhance the reliability and functionality of ATMs, subsequently improving success rates.
+
+Delve deeper into the factors influencing the transactional disparities among these regions.
+
+Explore opportunities to enhance transactional activities in regions with lower percentages to ensure a more balanced geographical distribution.
+
+Strategize to accommodate the prevalent dominance of withdrawals, potentially exploring methods to optimize and enhance this transaction type's efficiency.
+
+Explore the customization of services or offerings to align with the preferences and behaviors of this transactionally dominant demographic.
+
+
