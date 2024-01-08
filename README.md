@@ -62,3 +62,7 @@ In terms of geographical distribution, the analysis highlights Lagos as the lead
 Among the various transaction types, withdrawals emerged as the predominant transaction, constituting 34.99% of the total transactions within the dataset. Following withdrawals, transfers accounted for 24.1% of the transactions, while balance inquiries and deposits stood closely at 20.46% and 20.45%, respectively.
 
 Within the customer dataset, a notable trend surfaced where the skilled population emerged as the predominant leaders in transactional activity. This demographic exhibited the highest volume of transaction records, holding a prominent position among both Datakliq bank customers and non-Datakliq bank customers alike.
+
+The analysis of Location name records reveals that the city with the highest records is Lagos, the Location with the highest records is Lekki ATM, followed by Ikorodu Atm, while the location with. the least record is wuse atm.
+
+![](ATM_locationAnalysis.PNG)
