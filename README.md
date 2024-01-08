@@ -48,24 +48,23 @@ The clean tables from the postgresql were uploaded to Microsoft Power Bi through
 
 ## Analysis and Visualization
 
-The analysis of ATM machine maintenance indicates that out of determinants factors such as Error rate, service response rate, average waiting time, success rate has significant effect on average user per ATM. The higher the success rate of the machine the higher the number of Cardholders that use the ATM. However, this does not seem to have effect on Transaction Records of the ATMs
+The analysis of ATM machine maintenance indicates that out of determinants factors such as Success rate, Error rate, service response rate, average waiting time, success rate has significant effect on average user per ATM. The higher the success rate of the machine the higher the number of Cardholders that use the ATM. However, this does not seem to have an effect on Transaction Records of the ATMs.
 
 ![](ATM_machineAnalysis2.PNG)
 
-The scrutiny of ATM Transaction Records spanning from January 2019 to December 2022 unveils significant insights. During this period, this study identified an extensive volume of transactions totaling over 6.52 million occurrences, representing a substantial engagement with the ATM network. Furthermore, the cumulative transactional value amassed over the four-year span amounted to an impressive 111.07 billion Naira.
+The analysis of ATM Transaction Records spanning from January 2019 to December 2022 reveals a record of over 6.52 million ATM transactions took place over the four years period. Furthermore, the total transaction amount amassed over the four-year span is an impressive 111.07 billion Naira.
 
 ![](transaction_record2.PNG)
 
-In terms of geographical distribution, the analysis highlights Lagos as the leading region, accounting for a substantial portion of ATM transactions at 39.64%. Following Lagos, Rivers emerged as the next significant contributor, representing 19.16% of the total transactions. Kano and Enugu closely followed, accounting for 16.57% and 16.39% of transactions, respectively. Abuja, while comparatively lower, still contributed notably with 8.25% of the total transactions.
+The analysis of transaction records of each state highlights Lagos as the leading region with transaction records at 39.64%. Followed by  Rivers, representing 19.16% of the total transactions. Kano and Enugu closely followed, accounting for 16.57% and 16.39% of transactions, respectively. Abuja, while comparatively lower, still contributed notably with 8.25% of the total transactions.
 
-Among the various transaction types, withdrawals emerged as the predominant transaction, constituting 34.99% of the total transactions within the dataset. Following withdrawals, transfers accounted for 24.1% of the transactions, while balance inquiries and deposits stood closely at 20.46% and 20.45%, respectively.
+The analysis of transaction type reveals that the transaction type with the highest records is  withdrawals which constitute 34.99% of the total transactions within the dataset. Followed by transfers which accounted for 24.1% of the transactions, while balance inquiries and deposits stood closely at 20.46% and 20.45%, respectively.
 
 ![](Transact_recordAnalysis2.PNG)
 
+The analysis of the customers dataset unveiled  a notable trend where the skilled population emerged as the predominant leaders in transactional activity among both Datakliq bank customers and non-Datakliq bank customers alike.
 
-Within the customer dataset, a notable trend surfaced where the skilled population emerged as the predominant leaders in transactional activity. This demographic exhibited the highest volume of transaction records, holding a prominent position among both Datakliq bank customers and non-Datakliq bank customers alike.
-
-The analysis of Location name records reveals that the city with the highest records is Lagos, the Location with the highest records is Lekki ATM, followed by Ikorodu Atm, while the location with. the least record is wuse atm.
+The analysis of Location name records reveals that the city with the highest records is Lagos, the Location with the highest records is Lekki ATM, followed by Ikorodu Atm, while the location with. The lowest record is wuse atm.
 
 ![](ATM_locationAnalysis.PNG)
 
