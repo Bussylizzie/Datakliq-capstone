@@ -90,5 +90,5 @@ Factors affecting transaction records disparities in states of operations must b
 ---
 
 ## Additional Resources 
-project datasets here
-SQL Queries and Data Analysis Expression Functions here
+project datasets [here](ATM_Optimization_Strategy_Datakliq_Project-2.pdf)
+SQL Queries and Data Analysis Expression Functions [here](ATMOptimizationSQL_DAX.pdf)
