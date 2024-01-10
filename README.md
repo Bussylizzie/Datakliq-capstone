@@ -68,18 +68,24 @@ The analysis of Location name records reveals that the city with the highest rec
 
 ![](ATM_locationAnalysis.PNG)
 
+---
+
+## Conclusion
+ATM machine is not just a regular machine tools to aid process but also can be viewed as a branch of a bank on its own. Therefore, there is need for more data driven analysis to aid ATM Optimization for Customers retention.
+
+---
 
 ## Recommendations
-Prioritize regular maintenance and timely repairs to sustain and improve ATM success rates.
 
-Invest in technological advancements or upgrades to enhance the reliability and functionality of ATMs, subsequently improving success rates.
+In this era of advancing Technology, Artificial intelligence (AI) should be incorporated to monitor the success rate and guide the Cardholders through their transactions, which will inadvertently reduce the average wait time, error rate.
 
-Delve deeper into the factors influencing the transactional disparities among these regions.
+While it shows that the skilled population have the highest records, adding a voice prompt in collaboration with AI, to help guide the unskilled who might be unlearned in the use of Tech to guide them through their transactions by asking for their fingerprints, will reduce error rate, increase success rate, decrease average wait time and reduce fraudulent activities.
 
-Explore opportunities to enhance transactional activities in regions with lower percentages to ensure a more balanced geographical distribution.
-
-Strategize to accommodate the prevalent dominance of withdrawals, potentially exploring methods to optimize and enhance this transaction type's efficiency.
-
-Explore the customization of services or offerings to align with the preferences and behaviors of this transactionally dominant demographic.
+Factors affecting transaction records disparities in states of operations must be further analyzed.
 
 
+---
+
+## Additional Resources 
+project datasets here
+SQL Queries and Data Analysis Expression Functions here
