@@ -80,7 +80,9 @@ click here to view full report
 
 In this era of advancing Technology, Artificial intelligence (AI) should be incorporated to monitor the success rate and guide the Cardholders through their transactions, which will inadvertently reduce the average wait time, error rate.
 
-While it shows that the skilled population have the highest records, adding a voice prompt in collaboration with AI, to help guide the unskilled who might be unlearned in the use of Tech to guide them through their transactions by asking for their fingerprints, will reduce error rate, increase success rate, decrease average wait time and reduce fraudulent activities.
+While it shows that the skilled population have the highest records, adding a voice prompt in collaboration with AI, to help guide the unskilled who might be unlearned in the use of Tech to guide them through their transactions by asking for their fingerprints and the type of transaction they want to perform, will reduce error rate, increase success rate, decrease average wait time, reduce fraudulent activities and increase customers retention rate.
+
+The Students populace should not be neglected, therefore, there should be more ATM machine in students environment.
 
 Factors affecting transaction records disparities in states of operations must be further analyzed.
 
