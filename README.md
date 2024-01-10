@@ -72,6 +72,7 @@ The analysis of Location name records reveals that the city with the highest rec
 
 ## Conclusion
 ATM machine is not just a regular machine tools to aid process but also can be viewed as a branch of a bank on its own. Therefore, there is need for more data driven analysis to aid ATM Optimization for Customers retention.
+click here to view full report
 
 ---
 
