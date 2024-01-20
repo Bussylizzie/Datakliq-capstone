@@ -1,4 +1,4 @@
-# Datakliq-capstone
+# ATM OPTIMIZATION ANALYSIS FOR CUSTOMER RETENTION 
 Datakliq Cohort 3 project 
 
 ![](65e221d80e47f1b6a163bb9aba3ac62c.jpg)
@@ -72,7 +72,7 @@ The analysis of Location name records reveals that the city with the highest rec
 
 ## Conclusion
 ATM machine is not just a regular machine tools to aid process but also can be viewed as a branch of a bank on its own. Therefore, there is need for more data driven analysis to aid ATM Optimization for Customers retention.
-click here to view full report
+click [here](https://app.powerbi.com/groups/me/reports/0c09e26d-47b2-4fa4-b118-b20ad58d6382?ctid=1885a007-d2f3-4844-b396-f2cfbfe0a7c0&pbi_source=linkShare) to view full report
 
 ---
 
