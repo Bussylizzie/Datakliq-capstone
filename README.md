@@ -64,7 +64,7 @@ The analysis of transaction type reveals that the transaction type with the high
 
 The analysis of the customers dataset unveiled  a notable trend where the skilled population emerged as the predominant leaders in transactional activity among both Datakliq bank customers and non-Datakliq bank customers alike.
 
-The analysis of Location name records reveals that the city with the highest records is Lagos, the Location with the highest records is Lekki ATM, followed by Ikorodu Atm, while the location with. The lowest record is wuse atm.
+The analysis of Location name records reveals that the city with the highest records is Lagos, the Location with the highest records is Lekki ATM, followed by Ikorodu Atm, while the location with the lowest transaction record are Garki ATM, Lugbe ATM and Maitama ATM respectively.
 
 ![](ATM_locationAnalysis.PNG)
 
