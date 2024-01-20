@@ -7,7 +7,7 @@ Datakliq Cohort 3 project
 ## Introduction 
 The ATM, an Automated Teller Machine, stands as a cornerstone of modern banking, serving as a vital link between customers and their finances.
 ATM allows round the clock access to basic banking functions like withdrawals, deposits, and transfers, empowering customers with flexibility and immediacy.
-This accessibility and ease of use not only satisfy customers’ demands for convenience but also solidify their loyalty, playing a pivotal role in retaining a satisfied clientele within the dynamic landscape of financial services.
+The accessibility and ease of use not only satisfy customers’ demands for convenience but also improve their loyalty, playing an important role in retaining a satisfied clientele within the dynamic landscape of financial institution.
 Recognizing the significance of retaining customers, this project aims to explore data-centric approaches to optimize ATM performance, ultimately bolstering our strategies for enhancing customer retention.
 
 ## Objective
