@@ -52,7 +52,7 @@ The analysis of ATM machine maintenance indicates that out of determinants facto
 
 ![](ATM_machineAnalysis2.PNG)
 
-The analysis of ATM Transaction Records spanning from January 2019 to December 2022 reveals a record of over 6.52 million ATM transactions took place over the four years period. Furthermore, the total transaction amount amassed over the four-year span is an impressive 111.07 billion Naira.
+The analysis of ATM Transaction Records spanning from January 2019 to December 2022 reveals that a record of approximately 6.52 million ATM transactions took place over the four years period. Furthermore, the total transaction amount amassed over the four-year span is an impressive 111.07 billion Naira.
 
 ![](transaction_record2.PNG)
 
