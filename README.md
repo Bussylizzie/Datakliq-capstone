@@ -6,7 +6,7 @@ Datakliq Cohort 3 project
 ---
 ## Introduction 
 The ATM, an Automated Teller Machine, stands as a cornerstone of modern banking, serving as a vital link between customers and their finances.
-These self-service kiosks allow 24/7 access to basic banking functions like withdrawals, deposits, and transfers, empowering customers with flexibility and immediacy.
+ATM allows round the clock access to basic banking functions like withdrawals, deposits, and transfers, empowering customers with flexibility and immediacy.
 This accessibility and ease of use not only satisfy customers’ demands for convenience but also solidify their loyalty, playing a pivotal role in retaining a satisfied clientele within the dynamic landscape of financial services.
 Recognizing the significance of retaining customers, this project aims to explore data-centric approaches to optimize ATM performance, ultimately bolstering our strategies for enhancing customer retention.
 
@@ -19,7 +19,7 @@ The project objectives are as follows:
 ---
 
 ## Tools used
-In this project, SQL (PostgreSQL) will be utilized for dataset cleaning purposes. Additionally, Microsoft Power BI will serve as the primary tool for data analysis and visualization.
+In this project, SQL (PostgreSQL) will be used for dataset cleaning purposes. Additionally, Microsoft Power BI will serve as the primary tool for data analysis and visualization.
 
 ---
 
@@ -90,5 +90,6 @@ Factors affecting transaction records disparities in states of operations must b
 ---
 
 ## Additional Resources 
-project datasets [here](ATM_Optimization_Strategy_Datakliq_Project-2.pdf)
+Project datasets [here](ATM_Optimization_Strategy_Datakliq_Project-2.pdf)
+
 SQL Queries and Data Analysis Expression Functions [here](ATMOptimizationSQL_DAX.pdf)
